@@ -1,3 +1,7 @@
+Progetto sviluppato da Pesaresi Francesco e Fasolo Mattia 
+
+Versione:1.0
+
 # 📂 GestoreFile
 
 Questo programma Java permette di gestire file **di testo (TXT)** e **binari (BIN)** tramite un'interfaccia testuale interattiva. È possibile leggere, scrivere, copiare e cambiare file in modo semplice e guidato.
