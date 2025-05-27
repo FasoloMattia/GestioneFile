@@ -1,6 +1,4 @@
-Progetto sviluppato da Pesaresi Francesco e Fasolo Mattia 
-
-Versione:1.0
+## 👤 Autori: [Fasolo Mattia](https://github.com/FasoloMattia) | [Pesaresi Francesco](https://github.com/PesinoFrancesco)
 
 # 📂 GestoreFile
 
