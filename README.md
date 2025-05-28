@@ -105,6 +105,8 @@ Il progetto è strutturato secondo il **DAO Pattern**:
 
 ## 📊 [Diagramma UML](GestioneFile_UML.png)
 
+---
+
 ## 🧪 Esempio di Utilizzo
 
 ```
